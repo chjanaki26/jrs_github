@@ -1,0 +1,8 @@
+git connecting to GitHub:-
+git config --global user.name username
+git congif --global user.email emaild
+
+check the username and mailid :-
+git config user.name
+git config user.email
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
