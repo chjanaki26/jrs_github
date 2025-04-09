@@ -31,4 +31,9 @@ git status (then our file is visible in red colour because we did't add file)
 
 10.git pull codelink
 (if we change any data in global repository it does't reflect to local file if we want the changes we can copy the https link in code and paste in cmd using this command)                                      
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+
+                                                   
+11.git checkout branchname (we can switch branchs you want to send the data)   
+
+12.git branch branchname (In cmd we can create new branch )                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+
