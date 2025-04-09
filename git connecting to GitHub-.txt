@@ -6,18 +6,28 @@ check the username and mailid :-
 git config user.name
 git config user.email
 
-create new folder in that folder go to address bar and delete the address and type cmd. cmd will open
+1.create new folder in that folder go to address bar and delete the address and type cmd. cmd will open
  
-we can change the directory with repository name:-
+2.we can change the directory with repository name:-
 cd jrs_github(it is a git repository name)
-dir
-git status (it shows how many files are present in this folder)
 
-we can also create new files in the local git and check using 
+3.dir
+
+4.git status (it shows how many files are present in this folder)
+
+5.we can also create new files in the local git and check using 
 git status (then our file is visible in red colour because we did't add file)
-git add -A (by using this command we add our file)
-git status (in this time our file colour changes to green)
-git commit -m "added outside file"(we must add comment to know )
-git push origin main(by using this command we push our file from local to main in GitHub repository )
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+
+6.git add  (by using this command we can add single file)
+  git add -A( using for adding multiple files)
+
+7.git status (in this time our file colour changes to green)
+
+8.git commit -m "added outside file"
+(we must add comment to know the changes)
+
+9.git push origin main
+(by using this command we push our file from local to main in GitHub repository )
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        10.git pull codelink
+(if we change any data in global repository it does't reflect to local file if we want the changes we can copy the https link in code and paste in cmd using this command)                                      
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
