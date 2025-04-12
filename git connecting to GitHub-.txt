@@ -29,6 +29,9 @@ git status (then our file is visible in red colour because we did't add file)
 9.git push origin main
 (by using this command we push our file from local to main in GitHub repository )
 
+if any error occurs at push time like(  Updates were rejected because the remote contains work that you do not have locally. This is usually caused by another repository pushing to the same ref. If you want to integrate the remote changes, use 'git pull' before pushing again.)
+then we use :- git pull origin main
+
 10.git pull codelink
 (if we change any data in global repository it does't reflect to local file if we want the changes we can copy the https link in code and paste in cmd using this command)                                      
 
